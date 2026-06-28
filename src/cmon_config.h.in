@@ -1,10 +1,10 @@
 /*****************************************************************************/
-#ifndef _CMON_CONFIG_H_
-#define _CMON_CONFIG_H_
+#ifndef __CMON_CONFIG_H_
+#define __CMON_CONFIG_H_ 1
 /*****************************************************************************/
 	/* the configured version variables set in CMakeLists.txt */
 	#define CMON_VERSION_MAJOR @cmon_VERSION_MAJOR@
 	#define CMON_VERSION_MINOR @cmon_VERSION_MINOR@
 /*****************************************************************************/
-#endif
+#endif /* __CMON_CONFIG_H_ */
 /*****************************************************************************/
