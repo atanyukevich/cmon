@@ -1,3 +1,0 @@
-/* the configured options and settings for Tutorial */
-#define CMON_VERSION_MAJOR @CMON_VERSION_MAJOR@
-#define CMON_VERSION_MINOR @CMON_VERSION_MINOR@
