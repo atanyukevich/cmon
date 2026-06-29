@@ -64,3 +64,6 @@ Makefile
 # project specific files
 cmon
 cmon_config.h
+
+# vim tmp files
+*.swp
